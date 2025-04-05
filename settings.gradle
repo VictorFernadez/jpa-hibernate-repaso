@@ -1,3 +1,5 @@
 rootProject.name = 'repaso'
 include 'one-to-one'
+include 'many-to-one'
+include 'many-to-many'
 

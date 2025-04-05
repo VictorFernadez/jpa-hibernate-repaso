@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/many-to-many" />
+            <option value="$PROJECT_DIR$/many-to-one" />
             <option value="$PROJECT_DIR$/one-to-one" />
           </set>
         </option>
